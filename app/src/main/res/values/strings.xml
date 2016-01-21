@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Health Record</string>
+
+    <string name="section1">ประเมินความเสี่ยง</string>
+    <string name="section1icon">ประเมินความเสี่ยง</string>
+    <string name="section2">หลักปฎิบัติ</string>
+    <string name="section3">โภชนาการ</string>
+    <string name="section4">แนะนำแพทย์</string>
+    <string name="section5">นัดพบแพทย์</string>
+
+    <string name="section1_1">ประเมินความเสี่ยงเพื่อป้องกันโรค</string>
+    <string name="section1_2">ประเมินความเสี่ยงในช่วงเวลานั้น</string>
+
+    <string name="age">ช่วงอายุ</string>
+    <string name="sex">เพศ</string>
+    <string name="male">ชาย</string>
+    <string name="female">หญิง</string>
+    <string name="height">ความสูง</string>
+    <string name="meter">เมตร</string>
+    <string name="weight">น้ำหนัก</string>
+    <string name="kilo">กิโลกรัม</string>
+    <string name="width">เส้นรอบเอว</string>
+    <string name="centi">เซนติเมตร</string>
+    <string name="presser">ความดันโลหิต</string>
+    <string name="DM">โรคเบาหวานในญาติสายตรง\n(พ่อ แม่ พี่ หรือน้อง)</string>
+    <string name="have">มี</string>
+    <string name="nohave">ไม่มี</string>
+
+    <string name="risk">ความเสี่ยง</string>
+    <string name="intro">คำแนะนำ</string>
+
+    <string name="age1">อายุ</string>
+    <string name="year">ปี</string>
+
+    <string name="perform1">การออกกำลังกาย</string>
+    <string name="perform2">การตรวจระดับน้ำตาลในเลือดด้วยตนเอง</string>
+    <string name="perform3">การตรวจปัสสาวะด้วยตนเอง</string>
+    <string name="perform4">การดูแลช่องปาก</string>
+    <string name="perform5">การดูแลผิวหนัง</string>
+    <string name="perform6">การดูแลเท้า</string>
+    <string name="perform7">เบาหวานขณะตั้งครรภ์</string>
+    <string name="perform8">ภาวะฉุกเฉินในผู้ป่วยเบาหวาน</string>
+    <string name="perform9">โรคแทรกซ้อนที่เกิดจากเบาหวาน</string>
+    
+    <string name="exercise1">แนวทางการออกกำลังกาย</string>
+    <string name="exercise2">หลักการออกกำลังกาย</string>
+    <string name="exercise3">ขั้นตอนการออกกำลังกาย</string>
+
+</resources>
